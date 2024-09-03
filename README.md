@@ -2,7 +2,6 @@
 
 ###### **이 Repository는 cho-log : self-paced-react step5까지 마치고 난 후 더 나아가 고도화하기 위해 존재합니다.**
 
-###### **MarkDown파일만 존재합니다.**
 > 🍀Cho-log-study : self-paced-react, React 기초
 >
 > https://github.com/cho-log/self-paced-react
