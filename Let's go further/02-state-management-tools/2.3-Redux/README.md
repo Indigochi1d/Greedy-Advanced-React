@@ -1,11 +1,17 @@
 # 02-3. 전역상태관리 - Redux
 
 ## 🎯 요구사항
-- Redux를 사용해서 애플리케이션 내의 Recoil로부터의 마이그레이션을 해보세요.
+- Redux toolkit를 사용해서 애플리케이션 내의 Recoil로부터의 마이그레이션을 해보세요.
+  ```shell
+  npm install redux react-redux @reduxjs/toolkit
+  ```
 - props에 대한 요구사항은 2-1 요구사항과 같습니다.
 - Redux를 **왜** 사용하는지, Recoil과 비교했을때 어떤 점이 달랐는지, 또 trade-off가 있는지 적어주세요.
-    - 기술적인 것도 좋고 개발자의 경험 측면에서도 좋습니다.
-
+  - 기술적인 것도 좋고 개발자의 경험 측면에서도 좋습니다.
+- Redux-Actions을 사용하세요.
+  ```shell
+  npm add redux-actions
+  ```
 ### 😗구현 예시
 - 컴포넌트의 이름이나 구조는 마음대로 변경해도 좋습니다.
 ```javascript
@@ -58,12 +64,12 @@ store.dispatch({ type: 'DECREMENT' })
 ## ✅ 키워드
 - props drilling
 - 전역상태관리
-    - Redux
-    - store
-    - Reducer
-    - dispatch
-    - useReducer
-    - useDispatch
+  - Redux
+  - store
+  - Reducer
+  - dispatch
+  - useReducer
+  - useDispatch
 
 ## 🧙‍♀️ 진행 가이드
 - 진행시간 : 2시간 내에 완료하는 것을 목표로 합니다.
