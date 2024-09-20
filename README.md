@@ -1,7 +1,7 @@
 # 🛣️Let's Go Further Together...
 
 ###### **이 Repository는 cho-log : self-paced-react step5까지 마치고 난 후 더 나아가 고도화하기 위해 존재합니다.**
-
+###### **미션 README 문서는 Let's go further디렉토리에 존재합니다.**
 > 🍀Cho-log-study : self-paced-react, React 기초
 >
 > https://github.com/cho-log/self-paced-react
@@ -21,5 +21,6 @@
 1. #### Context API
 2. #### Recoil
 3. #### Redux
-### 3. Code Splitting 
-### 4. Server Side Rendering
+### 3. Component Optimization
+### 4. Code Splitting
+### 5. Server Side Rendering

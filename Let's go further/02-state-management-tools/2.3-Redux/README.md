@@ -8,7 +8,7 @@
   - rootReducer를 설정하고 import/export 해보세요!
 - props에 대한 요구사항은 2-1 요구사항과 같습니다.
 - Redux toolkit(RTK)를 **왜** 사용하는지, Recoil과 비교했을때 어떤 점이 달랐는지, 또 trade-off가 있는지 적어주세요.
-  - 기술적인 것도 좋고 개발자의 경험 측면에서도 좋습니다.
+    - 기술적인 것도 좋고 개발자의 경험 측면에서도 좋습니다.
 - Redux Devtools를 이용하고 State의 변화와 Action의 발생을 확인해보세요.
 
 ### 😗구현 예시
@@ -51,13 +51,13 @@ export default rootReducer;
 ## ✅ 키워드
 - props drilling
 - 전역상태관리
-  - Redux
-  - store
-  - Reducer
-  - Slices
-  - dispatch
-  - useSelector
-  - useDispatch
+    - Redux
+    - store
+    - Reducer
+    - Slices
+    - dispatch
+    - useSelector
+    - useDispatch
 
 ## 🧙‍♀️ 진행 가이드
 - 진행시간 : 2시간 내에 완료하는 것을 목표로 합니다.
